@@ -1,4 +1,4 @@
-CREATE TABLE cgdevopstest.ryantest (
+CREATE TABLE ryantest (
   numwins int,
   numlosses int,
   numdraws int
