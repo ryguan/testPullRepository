@@ -1,8 +1,5 @@
 ---
-UserName: Alicia
-Password: pinga123 *
-phone: 3256
-TablesList:
-  - EmployeeTable
-  - SoftwaresList
-  - HardwareList
+RunOrder: 
+- basic_test.sql
+- add_files_test.sql
+
